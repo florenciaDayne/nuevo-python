@@ -1,5 +1,3 @@
-print("hello")
-print("hola")
-print("chao")
-print("gracias")
-print("de nada")
+print("hola mateo")
+print("hola emanuel")
+print("hola isaias")
