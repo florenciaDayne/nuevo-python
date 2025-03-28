@@ -1,3 +1,5 @@
 print("hello")
 print("hola")
 print("chao")
+print("gracias")
+print("de nada")
